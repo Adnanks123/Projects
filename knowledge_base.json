@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "questions": "nigga",
+      "answer": "thats an inappropriate word, please do not repeat it"
+    },
+    {
+      "questions": "This evening season",
+      "answer": "today is very sunny"
+    },
+    {
+      "questions": "Is it serious?",
+      "answer": "yes im 100% sure"
+    },
+    {
+      "questions": "im fine",
+      "answer": "thats nice to hear!"
+    },
+    {
+      "questions": "what",
+      "answers": [
+        "nothing",
+        "hey",
+        "dont"
+      ]
+    },
+    {
+      "questions": "whats the weather today",
+      "answers": [
+        "its quite sunny",
+        "its quite rainy",
+        "its quite humid",
+        "its quite pleasant"
+      ]
+    },
+    {
+      "questions": "quote",
+      "answers": [
+        ""
+      ]
+    },
+    {
+      "questions": "hey ",
+      "answers": [
+        "hey how are you?",
+        "hey! how may i help you?",
+        "hello! what would you like to hear today?"
+      ]
+    },
+    {
+      "questions": "hello",
+      "answers": [
+        "hey"
+      ]
+    },
+    {
+      "questions": "how are you?",
+      "answers": [
+        "im fine, what about you??"
+      ]
+    },
+    {
+      "questions": "thats sad",
+      "answers": [
+        "indeed"
+      ]
+    },
+    {
+      "questions": "hey chatbot",
+      "answers": [
+        "Hello human!",
+        "hey, how can i be of service?",
+        "hello human, what question do you have?"
+      ]
+    },
+    {
+      "questions": "can you provide me with a motivational quote?",
+      "answers": [
+        "Life is what happens to us while we are making other plans. Allen Saunders",
+        "Life isn’t about finding yourself. Life is about creating yourself.”― George Bernard Shaw",
+        "Doubt kills more dreams than failure ever will.",
+        "Whether you think you can or think you cant, youre right. – Henry Ford"
+      ]
+    },
+    {
+      "questions": "python?",
+      "answers": [
+        "Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. Since it's relatively easy to learn, Python has been adopted by many non-programmers, such as accountants and scientists, for a variety of everyday tasks, like organising finances."
+      ]
+    },
+    {
+      "questions": "you are noob",
+      "answers": [
+        "it means that it refers to some one is dumb or an idiot",
+        " oh iam sorry",
+        "iam just a machine you cant expect more from me"
+      ]
+    },
+    {
+      "questions": "html",
+      "answers": [
+        "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content."
+      ]
+    },
+    {
+      "questions": "html?",
+      "answers": [
+        "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content."
+      ]
+    },
+    {
+      "questions": "c++",
+      "answers": [
+        "C++ (or “C-plus-plus”) is a generic programming language for building software. It's an object-oriented language. In other words, it emphasizes using data fields with unique attributes (a.k.a. objects) rather than logic or functions. A common example of an object is a user account on a website."
+      ]
+    },
+    {
+      "questions": "what is the best engineering college in hyderabad?",
+      "answers": [
+        "Lords institute of engineering and technology is the best engineering college in hyderbad"
+      ]
+    }
+
+  ]
+}
